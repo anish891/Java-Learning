@@ -535,18 +535,5 @@ public class Hashing {
             map.put(sum, map.getOrDefault(sum, 0)+1);
         }
         System.out.println(ans);
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
